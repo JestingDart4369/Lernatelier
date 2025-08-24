@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erich\\source\\repos\\Lernatelier_01_2025\\G\u00E4nse Spiel\\",
+  "WorkspaceRootPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23790D76-8B99-4A1C-9F97-925B6DD090B7}|G\u00E4nse Spiel\\G\u00E4nse Spiel.csproj|c:\\users\\erich\\source\\repos\\lernatelier_01_2025\\g\u00E4nse spiel\\g\u00E4nse spiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23790D76-8B99-4A1C-9F97-925B6DD090B7}|G\u00E4nse Spiel\\G\u00E4nse Spiel.csproj|c:\\users\\erich\\source\\repos\\lernatelier\\02_spilesammlung\\g\u00E4nse spiel\\g\u00E4nse spiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23790D76-8B99-4A1C-9F97-925B6DD090B7}|G\u00E4nse Spiel\\G\u00E4nse Spiel.csproj|solutionrelative:g\u00E4nse spiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D65C52EF-60F7-49B8-B218-99EC941D7FFA}|Testing\\Testing.csproj|c:\\users\\erich\\source\\repos\\lernatelier_01_2025\\g\u00E4nse spiel\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65C52EF-60F7-49B8-B218-99EC941D7FFA}|Testing\\Testing.csproj|c:\\users\\erich\\source\\repos\\lernatelier\\02_spilesammlung\\g\u00E4nse spiel\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D65C52EF-60F7-49B8-B218-99EC941D7FFA}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65C52EF-60F7-49B8-B218-99EC941D7FFA}|Testing\\Testing.csproj|c:\\users\\erich\\source\\repos\\lernatelier\\02_spilesammlung\\g\u00E4nse spiel\\testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65C52EF-60F7-49B8-B218-99EC941D7FFA}|Testing\\Testing.csproj|solutionrelative:testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\Testing\\Test.cs",
+              "RelativeDocumentMoniker": "Testing\\Test.cs",
+              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\Testing\\Test.cs",
+              "RelativeToolTip": "Testing\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:42:20.153Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier_01_2025\\G\u00E4nse Spiel\\Testing\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\Testing\\Program.cs",
               "RelativeDocumentMoniker": "Testing\\Program.cs",
-              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier_01_2025\\G\u00E4nse Spiel\\Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\Testing\\Program.cs",
               "RelativeToolTip": "Testing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T15:39:15.8Z"
             },
@@ -44,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier_01_2025\\G\u00E4nse Spiel\\G\u00E4nse Spiel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\G\u00E4nse Spiel\\Program.cs",
               "RelativeDocumentMoniker": "G\u00E4nse Spiel\\Program.cs",
-              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier_01_2025\\G\u00E4nse Spiel\\G\u00E4nse Spiel\\Program.cs",
+              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\G\u00E4nse Spiel\\G\u00E4nse Spiel\\Program.cs",
               "RelativeToolTip": "G\u00E4nse Spiel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T20:46:07.459Z",
               "EditorCaption": ""
