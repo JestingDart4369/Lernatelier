@@ -11,7 +11,7 @@ Keine Noten richtig bisher
 NIchts
 
 ### Projekte / neue Technologien
-Brettspiele in vs Programieren und pen testing mit hack the box 
+Brettspiele in vs Programieren ein kleines game in Unity Programieren.
 ### Generelle Ziele
 Ich möchte mit unity ein wenig game dev lernen und ausprobiern und ich mochte in vs weitere projeckte erschafen um die basics weiter zu verinnerlichen.
 ## 22.08.2025
@@ -22,6 +22,7 @@ Reflexion: Heute habe ich einen übungs-lb absolviert und mein gänse spiel in v
 - [ ] Umwandlung eines bretspielklassikers in ein vs spiel
 - [ ] Programierung auswahl der verschidenen brettspiele in vs Programieren und testen der spiele auf funktionalität.
 - [ ] Ein hack the box kurs für pen testing absolvieren
+- [ ] Unity Erste erfahrungen sammeln
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
