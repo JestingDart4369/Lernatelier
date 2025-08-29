@@ -1,14 +1,13 @@
 # Lern-Periode 1
 Name: Eric Häusler
-
 12.08.2025 bis 29.09.2025
 
 ## Grob-Planung
 ### Noten
-Keine Noten richtig bisher
+Keine Noten bisher
 
 ### Veränderungen
-NIchts
+Nichts
 
 ### Projekte / neue Technologien
 Brettspiele in vs Programieren ein kleines game in Unity Programieren.
@@ -23,10 +22,11 @@ Reflexion: Heute habe ich einen übungs-lb absolviert und mein gänse spiel in v
 - [x] Programierung auswahl der verschidenen brettspiele in vs Programieren und testen der spiele auf funktionalität.
 - [x] Ein hack the box kurs für pen testing absolvieren
 - [x] Unity Erste erfahrungen sammeln
-(Heute habe ich... (50-100 Wörter))
+## Reflexion
+Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in vs das bekannte gänse brettspiel programiert was zielich gut gegangen ist danach habe ich zu unity gewechselt und da die basics in game development im 3D raum gelernt. Wie man sich im raum bewegt und objekte einfügt.
 ## Planung 07.09.2025
 
-- [x] Unity Essentials
+- [ ] Unity Essentials
 - [ ] Unity 3D Essentials
 - [ ] Unity Audio Essentials
 (Heute habe ich... (50-100 Wörter))
