@@ -26,9 +26,9 @@ Reflexion: Heute habe ich einen übungs-lb absolviert und mein gänse spiel in v
 Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in vs das bekannte gänse brettspiel programiert was zielich gut gegangen ist danach habe ich zu unity gewechselt und da die basics in game development im 3D raum gelernt. Wie man sich im raum bewegt und objekte einfügt.
 ## Planung 07.09.2025
 
-- [ ] Unity Essentials
-- [ ] Unity 3D Essentials
-- [ ] Unity Audio Essentials
+- [x] Unity Essentials
+- [x] Unity 3D Essentials
+- [x] Unity Audio Essentials
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
