@@ -27,7 +27,7 @@ static void Game()
         {
             Console.WriteLine("Diese Runde Ist vorbei Hier ein zwischenstand:");
             int playerCounterEndOfRound = 0;
-            for (int i = 1; i < players; i++)
+            for (int i = 1; i <= players; i++)
             {
                 Console.WriteLine("Der Spieler " + i + " Ist auf der positzion " + postionPlayers[playerCounterEndOfRound] + ".");
                 int playerCounterRound = playerCounterEndOfRound + 1;

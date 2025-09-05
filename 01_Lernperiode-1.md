@@ -10,7 +10,7 @@ Keine Noten bisher
 Nichts
 
 ### Projekte / neue Technologien
-Brettspiele in vs Programieren ein kleines game in Unity Programieren.
+Brettspiele in vs Programieren und versuch eines klöeinen os "passwort gescütztes program" ein kleines game in Unity Programieren.
 ### Generelle Ziele
 Ich möchte mit unity ein wenig game dev lernen und ausprobiern und ich mochte in vs weitere projeckte erschafen um die basics weiter zu verinnerlichen.
 ## 22.08.2025
