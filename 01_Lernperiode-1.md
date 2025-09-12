@@ -32,9 +32,14 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
 (Heute habe ich in unity die essentials über 3d raum programieren und sound in 3d gelernt so das ich diese anwenden kann ich hate ein wenig probleme mit dem audio revorb objekt aber dies habe ich auch schnell herausgefunden.zudem habe ich unterschätz wie wschnell man durch die einsteiger kurse von unity kommt weswegen ich meiner planung voraus bin)
 ## Planung 07.09.2025
 
--[] Unity Kurs 2d esentials abschliesen
--[] Unity Kurs Publishing essentials Abschliesen
--[] In Unity ein kleines game programieren
+-[x] Unity Kurs 2d esentials abschliesen
+-[x] Unity Kurs Publishing essentials Abschliesen
+## Abgeschlossen nicht im la
+
+-[ ] In Unity ein kleines game programieren
+    -[]Desing spiel Teile abschliesen
+    -[]Desing zimmer abschliesen
+    -[]interaktivvität zimmer programieren
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
 
