@@ -36,11 +36,19 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
 -[x] Unity Kurs Publishing essentials Abschliesen
 ## Abgeschlossen nicht im la
 
--[ ] In Unity ein kleines game programieren
-    -[]Desing spiel Teile abschliesen
-    -[]Desing zimmer abschliesen
-    -[]interaktivvität zimmer programieren
+-[] In Unity ein kleines game programieren
+### Lang Zeit Projekt
+    -[]Desing scene abschliesen
+        -[x]Zimmer
+        -[x]Drausen
+(Heute habe ich in unity das zimmer eingerichtet und die dekcke hinzugefüt auch habe ich die stage auserhalb desingt so das es nicht langweilig wird.)
+## Planung 19.09.2025
+-[] In Unity ein kleines game programieren
+### Lang Zeit Projekt
+    -[]Desing scene abschliesen
+        -[] Beleuchtung
+        -[] Sound Desing
+    -[]Spielfiguren
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
-
-
