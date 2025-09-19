@@ -48,7 +48,7 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
     -[]Desing scene abschliesen
         -[] Beleuchtung
         -[] Sound Desing
-    -[]Spielfiguren
+    -[]Homelab upgrade Planen
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
