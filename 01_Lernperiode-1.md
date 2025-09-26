@@ -48,8 +48,9 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
     -[x]Zusamensuchen assets
     -[x]Erstellen Asset pack
 ## Planung 26.09.2025
--[]Homelab Servert config 
--[]Homelab item planung
--[]Homelab 3d visual
+-[x]Homelab Servert config 
+-[x]Homelab item planung
+-[x]Homelab 3d visual
+(Heute habe ich mein upgrad meines homlabs geplant wie ich und was ich hinzufügen möchte (Lackrack) acuh habe ich mit space desk mein ipad als 2 pc screen erstelt was einfach nur "geil"/Toll ist.)
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
