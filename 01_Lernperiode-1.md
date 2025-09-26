@@ -53,4 +53,4 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
 -[x]Homelab 3d visual
 (Heute habe ich mein upgrad meines homlabs geplant wie ich und was ich hinzufügen möchte (Lackrack) acuh habe ich mit space desk mein ipad als 2 pc screen erstelt was einfach nur "geil"/Toll ist.)
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich meinen pc fertig eingerichtet so das ich ab jetzt einen 2 bildschirm habe auch habe ich die grundlagen in unity gelernt und versucht ein game darin zu programieren dazu kommt noch das ich den brettspiel klassiker der gänsespiel heist in c# programiert dies kan man jetzt mit einem ächten würfel und bis zu 4 spieler spielen leider gibt es noch einige bugs die ich irgenwen einmal noch beheben werde auch habe ich die planung für das upgrade meines homelabs gemacht dies werde ich in den ferien umsetzen.)
