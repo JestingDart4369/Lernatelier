@@ -43,12 +43,13 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
         -[x]Drausen
 (Heute habe ich in unity das zimmer eingerichtet und die dekcke hinzugefüt auch habe ich die stage auserhalb desingt so das es nicht langweilig wird.)
 ## Planung 19.09.2025
--[] In Unity ein kleines game programieren
+-[x]Homelab upgrade Planen
 ### Lang Zeit Projekt
-    -[]Desing scene abschliesen
-        -[] Beleuchtung
-        -[] Sound Desing
-    -[]Homelab upgrade Planen
-
+    -[x]Zusamensuchen assets
+    -[x]Erstellen Asset pack
+## Planung 26.09.2025
+-[]Homelab Servert config 
+-[]Homelab item planung
+-[]Homelab 3d visual
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
