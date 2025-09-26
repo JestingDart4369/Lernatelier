@@ -36,9 +36,9 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
 -[x] Unity Kurs Publishing essentials Abschliesen
 ## Abgeschlossen nicht im la
 
--[] In Unity ein kleines game programieren
+-[x] In Unity ein kleines game programieren
 ### Lang Zeit Projekt
-    -[]Desing scene abschliesen
+    -[x]Desing scene abschliesen
         -[x]Zimmer
         -[x]Drausen
 (Heute habe ich in unity das zimmer eingerichtet und die dekcke hinzugefüt auch habe ich die stage auserhalb desingt so das es nicht langweilig wird.)
