@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\Gänse Spiel.csproj",
-      "projectName": "Gänse Spiel",
-      "projectPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\Gänse Spiel.csproj",
+      "projectUniqueName": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Testing\\Testing.csproj",
+      "projectName": "Testing",
+      "projectPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Testing\\Testing.csproj",
       "packagesPath": "C:\\Users\\erich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\obj\\",
+      "outputPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
