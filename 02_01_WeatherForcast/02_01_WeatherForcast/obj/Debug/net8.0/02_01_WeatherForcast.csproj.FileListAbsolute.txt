@@ -1,0 +1,15 @@
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\bin\Debug\net8.0\02_01_WeatherForcast.exe
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\bin\Debug\net8.0\02_01_WeatherForcast.deps.json
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\bin\Debug\net8.0\02_01_WeatherForcast.runtimeconfig.json
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\bin\Debug\net8.0\02_01_WeatherForcast.dll
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\bin\Debug\net8.0\02_01_WeatherForcast.pdb
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.AssemblyInfoInputs.cache
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.AssemblyInfo.cs
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.csproj.CoreCompileInputs.cache
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.sourcelink.json
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.dll
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\refint\02_01_WeatherForcast.dll
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.pdb
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\02_01_WeatherForcast.genruntimeconfig.cache
+C:\Users\erich\source\repos\Lernatelier\02_01_WeatherForcast\02_01_WeatherForcast\obj\Debug\net8.0\ref\02_01_WeatherForcast.dll

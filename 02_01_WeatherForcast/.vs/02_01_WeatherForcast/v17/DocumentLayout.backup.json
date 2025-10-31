@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_01_WeatherForcast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD0B5D7-6890-4800-B6AA-E9BF7F662D3E}|02_01_WeatherForcast\\02_01_WeatherForcast.csproj|c:\\users\\erich\\source\\repos\\lernatelier\\02_01_weatherforcast\\02_01_weatherforcast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD0B5D7-6890-4800-B6AA-E9BF7F662D3E}|02_01_WeatherForcast\\02_01_WeatherForcast.csproj|solutionrelative:02_01_weatherforcast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_01_WeatherForcast\\02_01_WeatherForcast\\Program.cs",
+              "RelativeDocumentMoniker": "02_01_WeatherForcast\\Program.cs",
+              "ToolTip": "C:\\Users\\erich\\source\\repos\\Lernatelier\\02_01_WeatherForcast\\02_01_WeatherForcast\\Program.cs*",
+              "RelativeToolTip": "02_01_WeatherForcast\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:12:18.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
