@@ -27,12 +27,20 @@ eine erstelung dokumentation des homlabs mit ip adressen usw auch erstellung vor
 ## 24.10.2025
 Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)
 
-## Planung 24.10.2025
+## Planung 31.10.2025
+
+- [x] über api lernen
+- [x] weather visualiziation pap machen
+- [x]Weather app programing 100 lines
+
+(Heute habe ich viel über api's gelernt und begoonen inpython eine wetter checker für die commandline zu bauen.)
+
+## Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] über api lernen
-- [ ] weather visualiziation pap machen
-- [ ] weather app programing 100 lines
+- [ ] wheater program finisch
+- [ ] learn about spotifi api
+- [ ] program acount vieer spotify
 
 (Heute habe ich... (50-100 Wörter))
 
