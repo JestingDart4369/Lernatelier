@@ -32,6 +32,7 @@ temperature = data["data"]["values"]["temperature"]
 feels_like = data["data"]["values"]["temperatureApparent"]
 
 #Construct output
-output = f"Tempature: {temperature}c°"
+output = pyfiglet.figlet_format(args.Location)
+output += f"Tempature: {temperature}c°"
 
 print(output)
