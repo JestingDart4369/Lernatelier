@@ -39,17 +39,25 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] wheater program finisch
-- [ ]get subproces for edubase-downloader 
-- [ ] program a Menu
+- [x]get subproces for edubase-downloader 
+- [x] program a Menu
 
 (Heute habe ich ein menu für meine programe programiert und mein wetter info von einem ort program fertig erstellt und hinzugefüggt auch habe ich die s auf 2 neuen apis gemacht.)
 
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ein neues tool finden
-- [ ] dieses tool programieren
-- [ ] tool integrieren
+- [x] ein neues tool finden
+- [x] dieses tool programieren
+- [x] tool integrieren
+
+(Heute habe ich eine passwörter maneger programiert welcher die daten verschölüselt speichert und ich habe mein layout aktualisiert so das die besser funktioneiert.)
+## Planung 21.11.2025
+
+
+- [ ] csv banking total spent calculator
+- [ ] csv banking total spent per month
+- [ ] implement in tools
 
 (Heute habe ich... (50-100 Wörter))
 
