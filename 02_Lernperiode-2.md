@@ -55,9 +55,17 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 ## Planung 21.11.2025
 
 
-- [ ] csv banking total spent calculator
-- [ ] csv banking total spent per month
-- [ ] implement in tools
+- [x] csv banking total spent calculator
+- [x] csv banking total spent year calculator
+- [x] implement in tools
+
+(Heute habe ich programiert das ich meinen kontoauszug von meiner bank die gesamt ausgaben und gesamt eingabe und auch kontostand programiert auch habe ich bei einem andern projekt die python program in eine .exe verwnadelt )
+
+## Planung 28.11.2025
+
+- [ ] atomatisierung einer langweiligen aufgabe
+- [ ] herausfinden wie man maus posizion abhängige aufgeben programiert
+- [ ] integration der aufgaben
 
 (Heute habe ich... (50-100 Wörter))
 
