@@ -63,11 +63,19 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 
 ## Planung 28.11.2025
 
-- [ ] atomatisierung einer langweiligen aufgabe
-- [ ] herausfinden wie man maus posizion abhängige aufgeben programiert
-- [ ] integration der aufgaben
+- [x] atomatisierung einer langweiligen aufgabe
+- [x] herausfinden wie man maus posizion abhängige aufgeben programiert
+- [x] integration der aufgaben
+
+(Heute habe ich ein python scirpt geschriben welches mein downloads in folder mit spezifschen sortierung hinein tuht so das ich nicht mehr suchen muss uach habe ich meine apik key strucktur in meinem projekt aktualisiert so dass jeztzt alle keys in einer einzuogen dattei sind.)
+
+## Planung 5.12.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] setup script für projekt erstellen
+- [ ] datei naming neu dennken
+- [ ] verbeserung des ui des projekts vorallem bei mails versenden
 
 (Heute habe ich... (50-100 Wörter))
-
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
