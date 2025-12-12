@@ -72,9 +72,16 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 ## Planung 5.12.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] setup script für projekt erstellen
-- [ ] datei naming neu dennken
-- [ ] verbeserung des ui des projekts vorallem bei mails versenden
+- [x] setup script für projekt erstellen
+- [x] datei naming neu dennken
+- [x] verbeserung des ui des projekts vorallem bei mails versenden
+
+(Heute habe ich die dateien aktualoisierft und auch ein spaer eingebaut womit ich leute närfen könte.)
+## Planung 12.12.2025
+
+- [ ] neues projekt finden
+- [ ] homelab dokumentation updaten!
+- [ ] recherchiren api sicherheizt und date n sicherheit algemein.
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
