@@ -79,9 +79,16 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 (Heute habe ich die dateien aktualoisierft und auch ein spaer eingebaut womit ich leute närfen könte.)
 ## Planung 12.12.2025
 
-- [ ] neues projekt finden
-- [ ] homelab dokumentation updaten!
-- [ ] recherchiren api sicherheizt und date n sicherheit algemein.
+- [x] mit klick ausführbare sotierung von dateien in richtige cloud
+- [x] homelab dokumentation updaten!
+- [x] recherchiren api sicherheizt und date n sicherheit algemein.
+
+(Heute habe ich ein program geschriben wmit es mit einem befehl alle datei von den modulen in die ordner hinein tut auch habe ich über api sicherheit recherchiert und mein visual studio lizen aktualisiert.)
+## Planung 19.12.2025
+
+- [x] botable usb machen
+- [ ] home lan ip neu setzen
+- [ ] code verstän dlichkeit update
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
