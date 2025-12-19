@@ -39,19 +39,57 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] wheater program finisch
-- [ ]get subproces for edubase-downloader 
-- [ ] program a Menu
+- [x]get subproces for edubase-downloader 
+- [x] program a Menu
 
 (Heute habe ich ein menu für meine programe programiert und mein wetter info von einem ort program fertig erstellt und hinzugefüggt auch habe ich die s auf 2 neuen apis gemacht.)
 
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ein neues tool finden
-- [ ] dieses tool programieren
-- [ ] tool integrieren
+- [x] ein neues tool finden
+- [x] dieses tool programieren
+- [x] tool integrieren
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich eine passwörter maneger programiert welcher die daten verschölüselt speichert und ich habe mein layout aktualisiert so das die besser funktioneiert.)
+## Planung 21.11.2025
 
+
+- [x] csv banking total spent calculator
+- [x] csv banking total spent year calculator
+- [x] implement in tools
+
+(Heute habe ich programiert das ich meinen kontoauszug von meiner bank die gesamt ausgaben und gesamt eingabe und auch kontostand programiert auch habe ich bei einem andern projekt die python program in eine .exe verwnadelt )
+
+## Planung 28.11.2025
+
+- [x] atomatisierung einer langweiligen aufgabe
+- [x] herausfinden wie man maus posizion abhängige aufgeben programiert
+- [x] integration der aufgaben
+
+(Heute habe ich ein python scirpt geschriben welches mein downloads in folder mit spezifschen sortierung hinein tuht so das ich nicht mehr suchen muss uach habe ich meine apik key strucktur in meinem projekt aktualisiert so dass jeztzt alle keys in einer einzuogen dattei sind.)
+
+## Planung 5.12.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] setup script für projekt erstellen
+- [x] datei naming neu dennken
+- [x] verbeserung des ui des projekts vorallem bei mails versenden
+
+(Heute habe ich die dateien aktualoisierft und auch ein spaer eingebaut womit ich leute närfen könte.)
+## Planung 12.12.2025
+
+- [x] mit klick ausführbare sotierung von dateien in richtige cloud
+- [x] homelab dokumentation updaten!
+- [x] recherchiren api sicherheizt und date n sicherheit algemein.
+
+(Heute habe ich ein program geschriben wmit es mit einem befehl alle datei von den modulen in die ordner hinein tut auch habe ich über api sicherheit recherchiert und mein visual studio lizen aktualisiert.)
+## Planung 19.12.2025
+
+- [x] botable usb machen
+- [x] home lan ip neu setzen
+- [ ] code verstän dlichkeit update
+
+(Heute habe ich in meinem home lan für mein homelab die lan dhcp ips uf *.novaromalan.com geseztz und auch auf meinen pc einn selfsinged certificate for https instaliert so das die webseiten vertrauensvoll erscheinen und der blöde bildschirm noicht  mehr kommt)
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich verschiodene tools programiert welche ich benutzen kan um meinen altag zu verbessern auch habe ich ein sortierung der downloads programiert sodas die moddel sachen sich automatisch einsortieren auvh habe ich ein wetter system programiert womit ich 7stunden vorschau und 7 tage bekomme.)
