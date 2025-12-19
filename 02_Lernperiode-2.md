@@ -87,9 +87,9 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 ## Planung 19.12.2025
 
 - [x] botable usb machen
-- [ ] home lan ip neu setzen
+- [x] home lan ip neu setzen
 - [ ] code verstän dlichkeit update
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich in meinem home lan für mein homelab die lan dhcp ips uf *.novaromalan.com geseztz und auch auf meinen pc einn selfsinged certificate for https instaliert so das die webseiten vertrauensvoll erscheinen und der blöde bildschirm noicht  mehr kommt)
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich verschiodene tools programiert welche ich benutzen kan um meinen altag zu verbessern auch habe ich ein sortierung der downloads programiert sodas die moddel sachen sich automatisch einsortieren auvh habe ich ein wetter system programiert womit ich 7stunden vorschau und 7 tage bekomme.)
