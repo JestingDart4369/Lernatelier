@@ -18,11 +18,18 @@ verständins für osint tools und hacking sowie c+
 ## Planung 09.01.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] osint test try hack me
-- [] Geo aufgabe (website)
-- [] osint test nummer 2
+- [x] osint test try hack me
+- [x] Geo aufgabe (website)
+- [x] osint test nummer 2
+
+(Heute habe ich die basic für osint photo zu einem standort finden  und wie man aus photos standorte findet.)
+## Planung 16.01.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] chalange auf tray hack me machen
+- [ ] mehr über sicherheit lernen
+- [ ] 2 te chalange auf try hack me machen 
 
 (Heute habe ich... (50-100 Wörter))
-
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
