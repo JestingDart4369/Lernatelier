@@ -47,11 +47,11 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] ein neues tool finden
-- [ ] dieses tool programieren
-- [ ] tool integrieren
+- [x] ein neues tool finden
+- [x] dieses tool programieren
+- [x] tool integrieren
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich ein neues program programiert und mein dashboard geupdated so das es nun besser alles anzeigt)
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich tools zur verleichterung der sotierung der modul files automatische verschibung von downloads in den haupt module folder und ein dashboard für den wetter dienst und bank zusamen fasung programiert.)
