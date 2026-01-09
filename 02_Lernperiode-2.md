@@ -88,7 +88,7 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 
 - [x] botable usb machen
 - [x] home lan ip neu setzen
-- [ ] code verstän dlichkeit update
+- [x] code verstän dlichkeit update
 
 (Heute habe ich in meinem home lan für mein homelab die lan dhcp ips uf *.novaromalan.com geseztz und auch auf meinen pc einn selfsinged certificate for https instaliert so das die webseiten vertrauensvoll erscheinen und der blöde bildschirm noicht  mehr kommt)
 ## Lernperiode Reflexion
