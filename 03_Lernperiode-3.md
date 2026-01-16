@@ -24,7 +24,13 @@ verständins für osint tools und hacking sowie c+
 
 (Heute habe ich die basic für osint photo zu einem standort finden  und wie man aus photos standorte findet.)
 ## Planung 16.01.2026
-3 bis 5 klar messbare Arbeitspakete.
+
+- [x] mail backup erstellen
+- [x] storymap fetig machen
+- [x] updates proxmox machen
+
+(Heute habe ich ein container aufgesetz welcher ab nun meine emails backups macht auch habe ich den letzten feinschlif meiner storymap gegebn und alle services auf prosmos ge updated und meine paswörter aufgeräumt.)
+## Planung 23.01.2026
 
 - [ ] chalange auf tray hack me machen
 - [ ] mehr über sicherheit lernen

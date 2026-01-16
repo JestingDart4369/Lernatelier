@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "tpWlhCX02pg=",
-=======
-  "dgSpecHash": "5cm/41Fx+eo=",
->>>>>>> a4e0508f1d0b6ba9ed412cc7504ddf2d547a2537
   "success": true,
   "projectFilePath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\Gänse Spiel.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\Gänse Spiel.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\erich\\source\\repos\\Lernatelier\\01_02_SpileSammlung\\Gänse Spiel\\Gänse Spiel\\Gänse Spiel.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
