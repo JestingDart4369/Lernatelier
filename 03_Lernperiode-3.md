@@ -32,9 +32,17 @@ verständins für osint tools und hacking sowie c+
 (Heute habe ich ein container aufgesetz welcher ab nun meine emails backups macht auch habe ich den letzten feinschlif meiner storymap gegebn und alle services auf prosmos ge updated und meine paswörter aufgeräumt.)
 ## Planung 23.01.2026
 
+- [x] chalange auf tray hack me machen
+- [x] mehr über sicherheit lernen
+- [x] linux usb
+(Heute habe ich einen linux usb erstellt welcher das gesamte ubuntu betriebs system auf ihm drauf ist so das ich auf jedm pc dies verwenden kann.)
+
+## Planung 23.08.2024
+3 bis 5 klar messbare Arbeitspakete.
+
 - [ ] chalange auf tray hack me machen
 - [ ] mehr über sicherheit lernen
-- [ ] 2 te chalange auf try hack me machen 
+- [ ] Dukomentation 117 schreiben
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
