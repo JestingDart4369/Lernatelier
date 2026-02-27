@@ -37,12 +37,20 @@ verständins für osint tools und hacking sowie c+
 - [x] linux usb
 (Heute habe ich einen linux usb erstellt welcher das gesamte ubuntu betriebs system auf ihm drauf ist so das ich auf jedm pc dies verwenden kann.)
 
-## Planung 23.08.2024
+## Planung 20.02.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] chalange auf tray hack me machen
-- [ ] mehr über sicherheit lernen
-- [ ] Dukomentation 117 schreiben
+- [x] chalange auf tray hack me machen
+- [x] mehr über sicherheit lernen
+- [x] Dukomentation 117 schreiben
+
+(Heute habe ich um erlich zu sein habe ich vergessen die planung zu erledigen wes wegn ich nicht mehr weis was ich gemacht habe.)
+## Planung 27.02.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] nach forychen suchberae db mit md dateien machen
+- [ ] api neue hinzufügen zur sammel api
+- [ ] smarthome automationen bessere finden und licht desing tool suchen.
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
