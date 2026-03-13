@@ -48,10 +48,29 @@ verständins für osint tools und hacking sowie c+
 ## Planung 27.02.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] nach forychen suchberae db mit md dateien machen
-- [ ] api neue hinzufügen zur sammel api
-- [ ] smarthome automationen bessere finden und licht desing tool suchen.
+- [x] nach forychen suchberae db mit md dateien machen
+- [x] api neue hinzufügen zur sammel api
+- [x] smarthome automationen bessere finden und licht desing tool suchen.
+
+(Heute habe ich um erlich zu sein ich jabe die dukumentation vergessen und einfach nie geschrieben)
+
+## Planung 06.03.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] python api neue api integrieren
+- [x] python api aufräumen folder
+- [x] python api dokumenatation schreiben
+
+(Heute habe ich ein api für die noten iin meine apis hinzugefügt.)
+## Planung 13.03.2026
+ziel neues nitizen system 
+
+- [ ] obsidian vault vergrössern
+- [ ] obsidian vault füllen
+- [ ] obsidian vault naming scemme folder ¨überdenken
 
 (Heute habe ich... (50-100 Wörter))
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
