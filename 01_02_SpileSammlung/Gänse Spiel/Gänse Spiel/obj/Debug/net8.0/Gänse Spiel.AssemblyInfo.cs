@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gänse Spiel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417c5f1a13d5dfb48b092c5b47cad63d062203e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d2ce2e65956e0ff950014c8acd12e16cf04ad2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gänse Spiel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gänse Spiel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
