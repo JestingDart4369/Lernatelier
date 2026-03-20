@@ -65,12 +65,19 @@ verständins für osint tools und hacking sowie c+
 ## Planung 13.03.2026
 ziel neues nitizen system 
 
-- [ ] obsidian vault vergrössern
-- [ ] obsidian vault füllen
-- [ ] obsidian vault naming scemme folder ¨überdenken
+- [x] obsidian vault vergrössern
+- [x] obsidian vault füllen
+- [x] c# projekt beginnen 
+
+(Heute habe ich mich begonne ein neues notizen system auf zu abeun das bis jetzt sehr mehr aufgeräumt ist oder andesrst gesagt besser mit meinem kopf funktionieirt als andere projecte)
+
+## Planung 20.03.2026
+
+- [] Whatsapp data extractor fertigstellen
+- [] Whatsapp data extractor testen
+- [] Daten für obsidan und überlege  strucktur obsidian.
 
 (Heute habe ich... (50-100 Wörter))
-
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
