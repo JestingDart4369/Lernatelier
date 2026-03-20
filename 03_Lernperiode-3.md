@@ -73,11 +73,17 @@ ziel neues nitizen system
 
 ## Planung 20.03.2026
 
-- [] Whatsapp data extractor fertigstellen
-- [] Whatsapp data extractor testen
-- [] Daten für obsidan und überlege  strucktur obsidian.
+- [x] Whatsapp data extractor fertigstellen
+- [x] Whatsapp data extractor testen
+- [x] Daten für obsidan und überlege  strucktur obsidian.
 
 (Heute habe ich... (50-100 Wörter))
+## Planung 27.03.2026
 
+- [ ] Whatsapp data extractor fertigstellen
+- [] Whatsapp data extractor ausführen
+- [] obsidain konfig 
+
+(Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
