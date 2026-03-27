@@ -80,10 +80,10 @@ ziel neues nitizen system
 (Heute habe ich... (50-100 Wörter))
 ## Planung 27.03.2026
 
-- [ ] Whatsapp data extractor fertigstellen
-- [] Whatsapp data extractor ausführen
-- [] obsidain konfig 
+- [x] Eigener Kalender Programieren bakend 
+- [x] Kalender Visualisierung
+- [x] Kalender Add Famili walll extra 
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich begonnen das zu programieren jdeoch hab ichn ein chaos gemacht jedoch hab cih gelernt wie man debuging in ein prograsm einbautjaj.)
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich gelernt wie man via code aine ai promten kan wie man debugs macht mit der python intergreierten debvug libary auch wie man eine api in python coded oder überhaupt einrichtet wie man docker benutzt und mir ein neues system für notizen überlegt.)
