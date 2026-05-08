@@ -25,17 +25,17 @@ xcode und programieren mit arduino
 
 ## Planung 08.05.2026
 
-- [ ] arduino led file aufbau skitze
-- [ ] arduino led file rework
-- [ ] button rework.
+- [x] arduino led file aufbau skitze
+- [x] arduino led file rework
+- [x] midi file integration ;-\)
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich meine led files neu geschrieben so das sie lesbarer sind und einen loading led ring funktion hinzugefügt auch habe ich ein leid (Back in time)von midi in jasonn umgeandwelt und von da inportiert somit kann nun der lauutsprecher das lied spielen)
 
 ## Planung 23.05.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Button logic rework and adding duble press and tripple press
+- [ ] Think how to do settings menu
+- [ ] programe the settings menu
 
 (Heute habe ich... (50-100 Wörter))
 
