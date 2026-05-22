@@ -31,20 +31,18 @@ xcode und programieren mit arduino
 
 (Heute habe ich meine led files neu geschrieben so das sie lesbarer sind und einen loading led ring funktion hinzugefügt auch habe ich ein leid (Back in time)von midi in jasonn umgeandwelt und von da inportiert somit kann nun der lauutsprecher das lied spielen)
 
-## Planung 23.05.2024
+## Planung 22.05.2026
 
-- [ ] Button logic rework and adding duble press and tripple press
-- [ ] Think how to do settings menu
-- [ ] programe the settings menu
-- [ ] Liste erstellen fehlende komponetnen !!! als erstes erledigen umnd mit her laug ansehen.
-
-(Heute habe ich... (50-100 Wörter))
+- [x] Liste erstellen fehlende komponetnen !!! als erstes erledigen umnd mit her laug ansehen.
+- [x] Kosten plan erstellen
+- [x] überlegen power system 
+(Heute habe ich plane für mein projekt erstelt und berechnet wie viel power brick ich brauzche auch habe ich den ai schatbot hermes instaliert und alle meine server mit ssh keys ausgestatet und ssh via password login deaktiviert.)
 
 ## Planung 23.05.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [] Programierung neu (core)
+- [ ]entscheid handling api vs button ind aufbauz system 
+- []entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
