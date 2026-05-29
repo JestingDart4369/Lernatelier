@@ -37,8 +37,12 @@ xcode und programieren mit arduino
 - [x] Kosten plan erstellen
 - [x] überlegen power system 
 (Heute habe ich plane für mein projekt erstelt und berechnet wie viel power brick ich brauzche auch habe ich den ai schatbot hermes instaliert und alle meine server mit ssh keys ausgestatet und ssh via password login deaktiviert.)
-
-## Planung 23.05.2024
+## Planung 26.05.2026
+- [x] Website transferiern pc uzu docker container proxmox
+- [x] Machine account für hermes erstellen
+- [x] iterm einrichten
+(heute habe ich mein mac terminal ge upgradet mit iterm auch habe ich für meine ai hermes einn github machine account erstelt nd zugrife zu den websites repos gegebn danach habe ich die daten bank vom alten docker container heraus genommen und transferiert und die .env auch)
+## Planung 05.06.2026
 
 - [] Programierung neu (core)
 - [ ]entscheid handling api vs button ind aufbauz system 
