@@ -41,9 +41,16 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 - [x] Website transferiern pc uzu docker container proxmox
 - [x] Machine account für hermes erstellen
 - [x] iterm einrichten
-(heute habe ich mein mac terminal ge upgradet mit iterm auch habe ich für meine ai hermes einn github machine account erstelt nd zugrife zu den websites repos gegebn danach habe ich die daten bank vom alten docker container heraus genommen und transferiert und die .env auch)
+(Heute habe ich mein mac terminal ge upgradet mit iterm auch habe ich für meine ai hermes einn github machine account erstelt nd zugrife zu den websites repos gegebn danach habe ich die daten bank vom alten docker container heraus genommen und transferiert und die .env auch)
 ## Planung 05.06.2026
 
+- [x] LA Datei Lesbar für crawler machen
+- [x]regex kennenn lernen 
+- [x] dashbord glance aktualisiern
+- [x]Projekt Zusamenfassung Discobox
+
+(Heute habe ich miene la dokumentation. für den. crwaler lesbar gemacht gelernt das man regex für input oder crawling verwenden kann mein homelab dashboard auf das gleiche desig wie mein obsidian vault gebrcht und für mein. bastelprojekt (diskobox) eine zusamenfasung fpr die schul administration geschriebemn.)
+## Planung 12.06.2026
 - [] Programierung neu (core)
 - []entscheid handling api vs button ind aufbauz system 
 - []entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
