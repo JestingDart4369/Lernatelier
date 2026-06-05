@@ -10,7 +10,7 @@ In diesen senesrer gaveb wir nochnicht noten bekommen
 ich möchte mich eher auf ein project konzentrieren
 
 ### Projekte / neue Technologien
-xcode und programieren mit arduino 
+xcode und programieren mit arduino und formatierung github macboc aktualoisieren 
 
 ### Generelle Ziele
 2 projecte mit arduino 1 xcode project (app welche auf meinem iphon lauft)
