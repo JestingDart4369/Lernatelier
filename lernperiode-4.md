@@ -45,7 +45,7 @@ xcode und programieren mit arduino
 ## Planung 05.06.2026
 
 - [] Programierung neu (core)
-- [ ]entscheid handling api vs button ind aufbauz system 
+- []entscheid handling api vs button ind aufbauz system 
 - []entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
 
 (Heute habe ich... (50-100 Wörter))
