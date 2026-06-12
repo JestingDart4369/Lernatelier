@@ -55,7 +55,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 - [x]Pi pico Rubber ducky alle restlichen scripts (Windows-dad-joke-notepad.dd,Windows-fake-memz-notepad-joke.dd,Windows-fake-windows-update-rickroll.dd,Windows-jumpscare-volume-prank.dd,Windows-keyboard-audition-joke.dd,Windows-rickroll-ascii-notepad.dd) auf fehler teten und fals existieren korigiern.
 - [x] Automationen (apple shortcuts) von iphone auf mac bringen und 2 neue hinzufügen
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich gelernt wie man auf ducky sript oder insgesamt malware auf einen pc brigt auch habe ich. gelernt was ein update macht voralem develpoer beta ah und wie man powershell scirpts von github. direkt ausführt ohne downloads.)
 ## Planung 19.06.2026
 - [] Programierung neu (core)
 - []entscheid handling api vs button ind aufbauz system 
