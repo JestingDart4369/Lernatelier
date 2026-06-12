@@ -51,6 +51,12 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 
 (Heute habe ich miene la dokumentation. für den. crwaler lesbar gemacht gelernt das man regex für input oder crawling verwenden kann mein homelab dashboard auf das gleiche desig wie mein obsidian vault gebrcht und für mein. bastelprojekt (diskobox) eine zusamenfasung fpr die schul administration geschriebemn.)
 ## Planung 12.06.2026
+- [x]Pi pico Rubber ducky script windows rickoll fixen from source 
+- [x]Pi pico Rubber ducky alle restlichen scripts (Windows-dad-joke-notepad.dd,Windows-fake-memz-notepad-joke.dd,Windows-fake-windows-update-rickroll.dd,Windows-jumpscare-volume-prank.dd,Windows-keyboard-audition-joke.dd,Windows-rickroll-ascii-notepad.dd) auf fehler teten und fals existieren korigiern.
+- [x] Automationen (apple shortcuts) von iphone auf mac bringen und 2 neue hinzufügen
+
+(Heute habe ich... (50-100 Wörter))
+## Planung 19.06.2026
 - [] Programierung neu (core)
 - []entscheid handling api vs button ind aufbauz system 
 - []entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
