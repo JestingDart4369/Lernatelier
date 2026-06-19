@@ -17,7 +17,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 
 ## Planung 24.04.2026
 
-- [x] arduino testporject
+- [x] Arduino testporject
 - [x] mit wifi verbinden
 - [x] hartbeet integrieren
 
@@ -45,21 +45,34 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 ## Planung 05.06.2026
 
 - [x] LA Datei Lesbar für crawler machen
-- [x]regex kennenn lernen 
+- [x] regex kennenn lernen 
 - [x] dashbord glance aktualisiern
-- [x]Projekt Zusamenfassung Discobox
+- [x] Projekt Zusamenfassung Discobox
 
 (Heute habe ich miene la dokumentation. für den. crwaler lesbar gemacht gelernt das man regex für input oder crawling verwenden kann mein homelab dashboard auf das gleiche desig wie mein obsidian vault gebrcht und für mein. bastelprojekt (diskobox) eine zusamenfasung fpr die schul administration geschriebemn.)
 ## Planung 12.06.2026
-- [x]Pi pico Rubber ducky script windows rickoll fixen from source 
-- [x]Pi pico Rubber ducky alle restlichen scripts (Windows-dad-joke-notepad.dd,Windows-fake-memz-notepad-joke.dd,Windows-fake-windows-update-rickroll.dd,Windows-jumpscare-volume-prank.dd,Windows-keyboard-audition-joke.dd,Windows-rickroll-ascii-notepad.dd) auf fehler teten und fals existieren korigiern.
+- [x] Pi pico Rubber ducky script windows rickoll fixen from source 
+- [x] Pi pico Rubber ducky alle restlichen scripts (Windows-dad-joke-notepad.dd,Windows-fake-memz-notepad-joke.dd,Windows-fake-windows-update-rickroll.dd,Windows-jumpscare-volume-prank.dd,Windows-keyboard-audition-joke.dd,Windows-rickroll-ascii-notepad.dd) auf fehler teten und fals existieren korigiern.
 - [x] Automationen (apple shortcuts) von iphone auf mac bringen und 2 neue hinzufügen
 
 (Heute habe ich gelernt wie man auf ducky sript oder insgesamt malware auf einen pc brigt auch habe ich. gelernt was ein update macht voralem develpoer beta ah und wie man powershell scirpts von github. direkt ausführt ohne downloads.)
 ## Planung 19.06.2026
+- [x] überlegen wie ich den api controler verbesern könnte
+- [x] Updaten Unifi Setup mit den neuen. möglichkeiten welche unif hinzu gefügt hat.
+- [x] Reserche betreiben ob Badgeware tufty eine besere lösung währe für status und remote Stuff.
+
+(Heute habe ich gelernt was ein dap (ldap)macht auch habe iuch mir neue ideen für meinen kleinen begleiter gemacht und dazu eine idee bekomen wie ich auf dem aruino (discobox)nächstes schuljahr overthe air upüdates implementeiren könte dazu indem ein program existiert das für aupdates ist dan 2 folder 1 für 1program 2 für 2 program wen 1 program lauft und update dan wird 2 program update und dan gestartet fals kein fehler belibt es sonst würde es zurück auf program2 noch dazu habe ich eine ide gehabt fpür eine status anzeige die automatisch alle daten sammelt bewertet z.b der service ist down und Dem entsprechen wie eine ampell anzeigt wie der stand gerade um das home lab ist.)
+## Planung 26.06.2026
+- [] Rasbarry pico 2W Entscheiden welche lan reconacinse tools mit ev sogar einem decoy funktion usw
+- [] PIco 2 W Wifi /lan entscheidene funktionen inplementeiren.
+
+- [] PIco 2 W accespoint mit local website machen für daten abruf und daten extraction.
+
+(Heute habe ich... (50-100 Wörter))
+## Planung 03.07.2026
 - [] Programierung neu (core)
-- []entscheid handling api vs button ind aufbauz system 
-- []entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
+- [] entscheid handling api vs button ind aufbauz system 
+- [] entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
