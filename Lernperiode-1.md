@@ -4,16 +4,21 @@ Name: Eric Häusler
 
 ## Grob-Planung
 ### Noten
-Keine Noten bisher
+Keine Noten bisher lorem ipsum
 
 ### Veränderungen
-Nichts
+Nichts lorem ipsum dolum
 
 ### Projekte / neue Technologien
 Brettspiele in vs Programieren und versuch eines klöeinen os "passwort gescütztes program" ein kleines game in Unity Programieren.
 ### Generelle Ziele
 Ich möchte mit unity ein wenig game dev lernen und ausprobiern und ich mochte in vs weitere projeckte erschafen um die basics weiter zu verinnerlichen.
-## 22.08.2025
+## Planung 22.08.2025
+
+- [x] LOrem Ipsum
+- [x] LOrem Ipsum
+- [x] LOrem Ipsum
+- [x] LOrem Ipsum
 Reflexion: Heute habe ich einen übungs-lb absolviert und mein gänse spiel in vs verbessert, das ist gut gelaufen bei mir ist das ich in vs einige fehler selber lösen konte, das waren die Probleme und so habe ich sie gelöst ich wuste bei einem problem in meinem code einfach nicht weiter und fragte chat gpt was los ist, das muss ich mir merken das man variabel alle möglichkeiten sehen solte was pasieren könte, so wäre ich besser vorgegangen ich hätte mir am anfang mehr überlegen sollen wie ich teile programieren sollte.
 
 ## Planung 29.08.2025
@@ -22,8 +27,7 @@ Reflexion: Heute habe ich einen übungs-lb absolviert und mein gänse spiel in v
 - [x] Programierung auswahl der verschidenen brettspiele in vs Programieren und testen der spiele auf funktionalität.
 - [x] Ein hack the box kurs für pen testing absolvieren
 - [x] Unity Erste erfahrungen sammeln
-## Reflexion
-Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in vs das bekannte gänse brettspiel programiert was zielich gut gegangen ist danach habe ich zu unity gewechselt und da die basics in game development im 3D raum gelernt. Wie man sich im raum bewegt und objekte einfügt.
+(Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in vs das bekannte gänse brettspiel programiert was zielich gut gegangen ist danach habe ich zu unity gewechselt und da die basics in game development im 3D raum gelernt. Wie man sich im raum bewegt und objekte einfügt.)
 ## Planung 05.09.2025
 
 - [x] Unity Essentials
@@ -32,25 +36,21 @@ Heute habe ich den kurs Network Enumeration with Nmap gearbeitet und danach in v
 (Heute habe ich in unity die essentials über 3d raum programieren und sound in 3d gelernt so das ich diese anwenden kann ich hate ein wenig probleme mit dem audio revorb objekt aber dies habe ich auch schnell herausgefunden.zudem habe ich unterschätz wie wschnell man durch die einsteiger kurse von unity kommt weswegen ich meiner planung voraus bin)
 ## Planung 07.09.2025
 
--[x] Unity Kurs 2d esentials abschliesen
--[x] Unity Kurs Publishing essentials Abschliesen
-## Abgeschlossen nicht im la
-
--[x] In Unity ein kleines game programieren
-### Lang Zeit Projekt
-    -[x]Desing scene abschliesen
-        -[x]Zimmer
-        -[x]Drausen
+- [x] Unity Kurs 2d esentials abschliesen
+- [x] Unity Kurs Publishing essentials Abschliesen
+- [x] In Unity ein kleines game programieren
+- [x] Desing scene abschliesen
+- [x] Zimmer
+- [x] Drausen
 (Heute habe ich in unity das zimmer eingerichtet und die dekcke hinzugefüt auch habe ich die stage auserhalb desingt so das es nicht langweilig wird.)
 ## Planung 19.09.2025
--[x]Homelab upgrade Planen
-### Lang Zeit Projekt
-    -[x]Zusamensuchen assets
-    -[x]Erstellen Asset pack
+-[x] Homelab upgrade Planen
+-[x] Zusamensuchen assets
+-[x] Erstellen Asset pack
 ## Planung 26.09.2025
--[x]Homelab Servert config 
--[x]Homelab item planung
--[x]Homelab 3d visual
+-[x] Homelab Servert config 
+-[x] Homelab item planung
+-[x] Homelab 3d visual
 (Heute habe ich mein upgrad meines homlabs geplant wie ich und was ich hinzufügen möchte (Lackrack) acuh habe ich mit space desk mein ipad als 2 pc screen erstelt was einfach nur "geil"/Toll ist.)
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich meinen pc fertig eingerichtet so das ich ab jetzt einen 2 bildschirm habe auch habe ich die grundlagen in unity gelernt und versucht ein game darin zu programieren dazu kommt noch das ich den brettspiel klassiker der gänsespiel heist in c# programiert dies kan man jetzt mit einem ächten würfel und bis zu 4 spieler spielen leider gibt es noch einige bugs die ich irgenwen einmal noch beheben werde auch habe ich die planung für das upgrade meines homelabs gemacht dies werde ich in den ferien umsetzen.)

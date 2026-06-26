@@ -27,7 +27,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 
 - [x] arduino led file aufbau skitze
 - [x] arduino led file rework
-- [x] midi file integration ;-\)
+- [x] midi file integration ;-;
 
 (Heute habe ich meine led files neu geschrieben so das sie lesbarer sind und einen loading led ring funktion hinzugefügt auch habe ich ein leid (Back in time)von midi in jasonn umgeandwelt und von da inportiert somit kann nun der lauutsprecher das lied spielen)
 
