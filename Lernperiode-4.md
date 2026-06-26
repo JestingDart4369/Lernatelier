@@ -63,7 +63,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 
 (Heute habe ich gelernt was ein dap (ldap)macht auch habe iuch mir neue ideen für meinen kleinen begleiter gemacht und dazu eine idee bekomen wie ich auf dem aruino (discobox)nächstes schuljahr overthe air upüdates implementeiren könte dazu indem ein program existiert das für aupdates ist dan 2 folder 1 für 1program 2 für 2 program wen 1 program lauft und update dan wird 2 program update und dan gestartet fals kein fehler belibt es sonst würde es zurück auf program2 noch dazu habe ich eine ide gehabt fpür eine status anzeige die automatisch alle daten sammelt bewertet z.b der service ist down und Dem entsprechen wie eine ampell anzeigt wie der stand gerade um das home lab ist.)
 ## Planung 26.06.2026
-- [ ] planen nächstes jahr welche projekte wan erledigen
+- [ ] lernen über visualCode
 - [ ] Badge display 1 program programieren.
 - [ ] Genauer plnen wie nächstes semester (lernperiode) das projekt angeangen. wird.
 
