@@ -37,7 +37,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 - [x] Kosten plan erstellen
 - [x] überlegen power system 
 (Heute habe ich plane für mein projekt erstelt und berechnet wie viel power brick ich brauzche auch habe ich den ai schatbot hermes instaliert und alle meine server mit ssh keys ausgestatet und ssh via password login deaktiviert.)
-## Planung 26.05.2026
+## Planung 29.05.2026
 - [x] Website transferiern pc uzu docker container proxmox
 - [x] Machine account für hermes erstellen
 - [x] iterm einrichten
@@ -63,16 +63,9 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 
 (Heute habe ich gelernt was ein dap (ldap)macht auch habe iuch mir neue ideen für meinen kleinen begleiter gemacht und dazu eine idee bekomen wie ich auf dem aruino (discobox)nächstes schuljahr overthe air upüdates implementeiren könte dazu indem ein program existiert das für aupdates ist dan 2 folder 1 für 1program 2 für 2 program wen 1 program lauft und update dan wird 2 program update und dan gestartet fals kein fehler belibt es sonst würde es zurück auf program2 noch dazu habe ich eine ide gehabt fpür eine status anzeige die automatisch alle daten sammelt bewertet z.b der service ist down und Dem entsprechen wie eine ampell anzeigt wie der stand gerade um das home lab ist.)
 ## Planung 26.06.2026
-- [ ] Rasbarry pico 2W Entscheiden welche lan reconacinse tools mit ev sogar einem decoy funktion usw
-- [ ] PIco 2 W Wifi /lan entscheidene funktionen inplementeiren.
-
-- [ ] PIco 2 W accespoint mit local website machen für daten abruf und daten extraction.
-
-(Heute habe ich... (50-100 Wörter))
-## Planung 03.07.2026
-- [ ] Programierung neu (core)
-- [ ] entscheid handling api vs button ind aufbauz system 
-- [ ] entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
+- [ ] planen nächstes jahr welche projekte wan erledigen
+- [ ] Badge display 1 program programieren.
+- [ ] Genauer plnen wie nächstes semester (lernperiode) das projekt angeangen. wird.
 
 (Heute habe ich... (50-100 Wörter))
 ## Lernperiode Reflexion
