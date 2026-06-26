@@ -65,8 +65,8 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 ## Planung 26.06.2026
 - [x] lernen über visualCode
 - [x] visualStudioCode Snippets aufsetzen und einrichten
-- [ ] Genauer plnen wie nächstes semester (lernperiode) das projekt angeangen. wird.
+- [x] Genauer plnen wie nächstes semester (lernperiode) das projekt angeangen. wird.
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich für die nächsten lernperioden snippets erstelt so das ich nicht mehr copy and past aus einer tamplate machen maus auch habe ich mehrere quality of live sachen in visual studion code und ich habe meine extensions auf verschidene profiles bewegt für verschiedene projekte dazu habe ich auch einen plan für die nächste lernperiode gemacht wan wie etwa alles fertig sein solte)
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich bei meinem discobox prjekt die ersten grundsteinme gelegt auch havbe ich gelernt wie man auf einem aruino und auch rasbary pi programiert dazu habe ich auch über pc security vunrabilities gelernt und auch wie man solche erstekt dazu habe ich auch für alle folgende lernperiode ein par snipets gemacht um den prozes zu beschleunigen und zuguter letzt habich für nächstes semester geplant wan und wie ich alles machen möchte.)
