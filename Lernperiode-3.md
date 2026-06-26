@@ -4,7 +4,7 @@ Name: Eric Häusler
 
 ## Grob-Planung
 ### Noten
-ich habe eine 5.5 schnit 
+ich habe eine 5.5 schnit.
 
 ### Veränderungen
 ich möcht e ein wenigb hacking lernen und osint aber auch mit c+ programieren  da ich biusher nur python verwendet habe.

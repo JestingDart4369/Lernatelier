@@ -1,0 +1,83 @@
+{
+	// Place your Lernatelier workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	//
+	// You can also restrict snippets to specific files using include/exclude patterns:
+	// "Test snippet": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "test",
+	// 	"body": "test('$1', () => {\n\t$0\n});",
+	// 	"include": ["**/*.test.ts", "*.spec.ts"],
+	// 	"exclude": ["**/temp/*.ts"],
+	// 	"description": "Insert test block"
+	// }
+	"Ateliertag": {
+	 	"scope": "markdown",
+	 	"prefix": "Lernatelier-Ateliertag",
+		"body": [
+	 		"## Planung ${1:Datum}",
+			"3 bis 5 klar messbare Arbeitspakete.",
+			"",
+			"- [ ] Erstes Arbeitspaket",
+			"- [ ] ...",
+			"- [ ] Viertes AP",
+			"",
+			"(Heute habe ich... (50-100 Wörter))",
+			"",
+	 	],
+	 	"description": "Dokumentation für Ateliertag"
+	 },
+	 "Lernperiode": {
+		"scope":"markdown",
+		"prefix": "Lernatelier-Lernperiode",
+		"body": [
+				"# Lern-Periode ${1:Nummer}",
+				"Name: Eric Häusler",
+
+				"${2:StartDatum} bis ${3:EndDatum}",
+
+				"## Grob-Planung",
+				"### Noten",
+				"Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?",
+
+				"### Veränderungen",
+				"Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?",
+
+				"### Projekte / neue Technologien",
+				"Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?",
+
+				"### Generelle Ziele",
+				"Was haben Sie für klare und messbare Ziele in dieser Lernperiode?",
+
+				"## 16.08.2024",
+				"Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)",
+
+				"## Planung 23.08.2024",
+				"3 bis 5 klar messbare Arbeitspakete.",
+
+				"- [ ] Erstes Arbeitspaket",
+				"- [ ] ...",
+				"- [ ] Viertes AP",
+
+				"(Heute habe ich... (50-100 Wörter))",
+
+				"## Lernperiode Reflexion",
+				"(In dieser Lernperiode habe ich... (50-100 Wörter))",
+		],
+		"description": "Initalisierung einer neuen Lernperiode"
+	}
+}
