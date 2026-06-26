@@ -1,14 +1,25 @@
 """Script for geting data of the newest Lernperiode Status"""
 import os
 import subprocess
-
-DEBUG = True
-FORCELERNPERIODE = "Lernperiode-4.md"
-cwd=os.getcwd()
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    '--periode', 
+    type=int,
+    default=0,
+    help='Path to the specific Lernperiode file')
+parser.add_argument('--debug', action='store_true', help='Enable debug mode')
+args = parser.parse_args()
+DEBUG = args.debug
+if args.periode == 0:
+    FORCELERNPERIODE = ""
+else:
+    FORCELERNPERIODE = f"Lernperiode-{args.periode}.md"
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
 if DEBUG:
-    print(cwd)
+    print(os.getcwd())
 if DEBUG:
-    print(os.listdir(cwd))
+    print(os.listdir(os.getcwd()))
 
 
 def sorting(e:any):
