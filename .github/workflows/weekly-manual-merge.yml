@@ -1,0 +1,43 @@
+name: Manual weekly merge to main
+
+# Manuell auslösbar (Actions-Tab -> "Run workflow"), z.B. mitten in der Woche.
+# Merged nur den aktuellen Wochen-Branch (woche-JJJJ-MM-TT) nach main.
+# Löscht den Branch nicht und erstellt keinen neuen - er läuft bis zur
+# nächsten Rotation durch "Weekly branch rotation" weiter.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Find current week branch
+        id: find
+        run: |
+          git fetch origin 'refs/heads/woche-*:refs/remotes/origin/woche-*' || true
+          CURRENT=$(git branch -r --list 'origin/woche-*' | sed 's#.*origin/##' | sort | tail -n1)
+          if [ -z "$CURRENT" ]; then
+            echo "Kein Wochen-Branch (woche-*) gefunden." >&2
+            exit 1
+          fi
+          echo "current=$CURRENT" >> "$GITHUB_OUTPUT"
+
+      - name: Merge current week branch into main
+        run: |
+          git merge --no-ff "origin/${{ steps.find.outputs.current }}" -m "Merge ${{ steps.find.outputs.current }} into main (manual)"
+          git push origin main
