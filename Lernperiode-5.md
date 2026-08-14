@@ -19,6 +19,8 @@ IN dieser lernperiode solte ales um mein Projekt " Discobox" Gehen
 
 ### Generelle Ziele
 
+yubikey accounts secure
+Discobox software struktut deteklierz prototyp
 Discobox coding Finished
 Discobox layout finished
 Testing Finished.

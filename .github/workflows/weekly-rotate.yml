@@ -1,0 +1,53 @@
+name: Weekly branch rotation
+
+# Läuft jeden Sonntag um 20:00 UTC (~22:00 MESZ/MEZ, je nach Sommer-/Winterzeit).
+# Merged den aktuellen Wochen-Branch (woche-JJJJ-MM-TT) nach main, löscht ihn
+# und legt für die kommende Woche einen neuen Branch mit dem Montags-Datum an.
+
+on:
+  schedule:
+    - cron: '0 20 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Find current week branch
+        id: find
+        run: |
+          git fetch origin 'refs/heads/woche-*:refs/remotes/origin/woche-*' || true
+          CURRENT=$(git branch -r --list 'origin/woche-*' | sed 's#.*origin/##' | sort | tail -n1)
+          echo "current=$CURRENT" >> "$GITHUB_OUTPUT"
+
+      - name: Merge current week branch into main
+        if: steps.find.outputs.current != ''
+        run: |
+          git merge --no-ff "origin/${{ steps.find.outputs.current }}" -m "Merge ${{ steps.find.outputs.current }} into main"
+          git push origin main
+
+      - name: Delete old week branch
+        if: steps.find.outputs.current != ''
+        run: |
+          git push origin --delete "${{ steps.find.outputs.current }}"
+
+      - name: Create next week branch
+        run: |
+          NEXT_DATE=$(date -u -d "next Monday" +%Y-%m-%d)
+          NEXT_BRANCH="woche-${NEXT_DATE}"
+          git checkout -b "$NEXT_BRANCH" origin/main
+          git push origin "$NEXT_BRANCH"
