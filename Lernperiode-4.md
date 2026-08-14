@@ -37,11 +37,13 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 - [x] Kosten plan erstellen
 - [x] überlegen power system 
 (Heute habe ich plane für mein projekt erstelt und berechnet wie viel power brick ich brauzche auch habe ich den ai schatbot hermes instaliert und alle meine server mit ssh keys ausgestatet und ssh via password login deaktiviert.)
+
 ## Planung 29.05.2026
 - [x] Website transferiern pc uzu docker container proxmox
 - [x] Machine account für hermes erstellen
 - [x] iterm einrichten
 (Heute habe ich mein mac terminal ge upgradet mit iterm auch habe ich für meine ai hermes einn github machine account erstelt nd zugrife zu den websites repos gegebn danach habe ich die daten bank vom alten docker container heraus genommen und transferiert und die .env auch)
+
 ## Planung 05.06.2026
 
 - [x] LA Datei Lesbar für crawler machen
@@ -62,6 +64,7 @@ xcode und programieren mit arduino und formatierung github macboc aktualoisieren
 - [x] Reserche betreiben ob Badgeware tufty eine besere lösung währe für status und remote Stuff.
 
 (Heute habe ich gelernt was ein dap (ldap)macht auch habe iuch mir neue ideen für meinen kleinen begleiter gemacht und dazu eine idee bekomen wie ich auf dem aruino (discobox)nächstes schuljahr overthe air upüdates implementeiren könte dazu indem ein program existiert das für aupdates ist dan 2 folder 1 für 1program 2 für 2 program wen 1 program lauft und update dan wird 2 program update und dan gestartet fals kein fehler belibt es sonst würde es zurück auf program2 noch dazu habe ich eine ide gehabt fpür eine status anzeige die automatisch alle daten sammelt bewertet z.b der service ist down und Dem entsprechen wie eine ampell anzeigt wie der stand gerade um das home lab ist.)
+
 ## Planung 26.06.2026
 - [x] lernen über visualCode
 - [x] visualStudioCode Snippets aufsetzen und einrichten

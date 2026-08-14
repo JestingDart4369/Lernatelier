@@ -1,42 +1,44 @@
 # Lern-Periode 5
-Name: Eric Häusler
 
-12.08.2024 bis 29.09.2024 !!!!! top Do 
+Name: Eric Häusler
+14.08.2026 bis 25.09.2026
 
 ## Grob-Planung
+
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
+In diesem schul jahr wurden noch keinen noten geschrieben aber indsgesamt gut.
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
+Mehr geziehlt an einem projekt arbeiten stadt nur ein einem.
 
 ### Projekte / neue Technologien
+
 IN dieser lernperiode solte ales um mein Projekt " Discobox" Gehen
 
 ### Generelle Ziele
+
 Discobox coding Finished
 Discobox layout finished
 Testing Finished.
 
+## Planung 14.08.2026
 
-## 16.08.2024
-Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)
+- [x] Programierung neu (core)
+- [x] entscheid handling api vs button ind aufbauz system 
+- [x] entscheiden welche befehle existiern solten usw ...welche details preisgegebne werden usw...
 
-## Planung 03.07.2026
-- [ ] Programierung neu (core)
-- [ ] entscheid handling api vs button ind aufbauz system 
-- [ ] entscheiden welche befehle xistiern solten usw ...welche details preisgegebne werden usw...
+(Heute habe ich die buzzer teil der discobox aktualisiert und hinzugefügt das wen man knöpfe drückt es auch ein geräusch macht dazu habe ich die ferschiedenen "module" umgeschreiben so das es jetzt mer oop oreientiert ist.)
 
-(Heute habe ich... (50-100 Wörter))
+## Planung 21.08.2026
 
-## Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] fertigsertellen der sfx für button.
+- [ ] einstellungen einprogramieren.
+- [ ] power of resitente einsetllungen einprogramieren.
 
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
+
 (In dieser Lernperiode habe ich... (50-100 Wörter))
