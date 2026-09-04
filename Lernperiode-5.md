@@ -52,13 +52,17 @@ Testing Finished.
 
 ## Planung 04.09.2026
 
-- [ ] ich möchten den python beginer kurs 1 auf net cad abschliesn hab schon 3/4 davon gemacht.
-- [ ] fastapi Alle dokumentation im lerning .md erwähnt gelesen(- **Start here:** <https://fastapi.tiangolo.com/tutorial/> - First steps → Path Parameters → Query Parameters → Request Body is the critical 30-minute path.- **Advanced topics:** <https://fastapi.tiangolo.com/advanced/>- **Dependency injection:** <https://fastapi.tiangolo.com/tutorial/dependencies/>
+- [x] ich möchten den python beginer kurs 1 auf net cad abschliesn hab schon 3/4 davon gemacht.
+- [x] fastapi Alle dokumentation im lerning .md erwähnt gelesen(- **Start here:** <https://fastapi.tiangolo.com/tutorial/> - First steps → Path Parameters → Query Parameters → Request Body is the critical 30-minute path.- **Advanced topics:** <https://fastapi.tiangolo.com/advanced/>- **Dependency injection:** <https://fastapi.tiangolo.com/tutorial/dependencies/>
   (very important — learn this thoroughly)- **Background tasks:** <https://fastapi.tiangolo.com/tutorial/background-tasks/>- **Lifespan events** (startup/shutdown): <https://fastapi.tiangolo.com/advanced/events/>- **Cheat sheet:** <https://github.com/tiangolo/fastapi#example>)
-- [ ] **Best supplementary resources:**- **FastAPI Best Practices** (community-driven): <https://github.com/zhanymkanov/fastapi-best-practices> — opinionated patterns for real-world apps- **ArjanCodes — FastAPI playlist** (YouTube): <https://www.youtube.com/c/ArjanCodes> — search "FastAPI"; great architecture content- **TestDriven.io FastAPI courses** — paid but high quality Dies sachen Durchlessen und zusamenfasung schieben 
-- [ ] pydantic dokumentation gelesen und zusamengefast Pydantic v2 is what makes FastAPI's request/response validation work.It's also what loads your settings. Worth learning solidly.- **Start here:** <https://docs.pydantic.dev/latest/>(the "Why use Pydantic" + "Models" pages especially)- **Field validation:** <https://docs.pydantic.dev/latest/concepts/fields/>
--[ ] - **Validators (custom logic):** <https://docs.pydantic.dev/latest/concepts/validators/>- **Migration from v1 → v2:** <https://docs.pydantic.dev/latest/migration/> (only relevant if you find old tutorials)- **Pydantic-settings (env config):** <https://docs.pydantic.dev/latest/concepts/pydantic_settings/>
+- [x] **Best supplementary resources:**- **FastAPI Best Practices** (community-driven): <https://github.com/zhanymkanov/fastapi-best-practices> — opinionated patterns for real-world apps- **ArjanCodes — FastAPI playlist** (YouTube): <https://www.youtube.com/c/ArjanCodes> — search "FastAPI"; great architecture content- **TestDriven.io FastAPI courses** — paid but high quality Dies sachen Durchlessen und zusamenfasung schieben 
 
+(Heute habe ich den beginner kurs abgeschlossen und den test gemacht dazu die fastapi dokumentation gelese.)
+## Planung 11.09.2026
+
+- [ ] pydantic dokumentation gelesen und zusamengefast (Pydantic v2 is what makes FastAPI's request/response validation work.It's also what loads your settings. Worth learning solidly.- **Start here:** <https://docs.pydantic.dev/latest/>(the "Why use Pydantic" + "Models" pages especially))
+- [ ] pydantic dokumentation gelesen und zusamengefast **Field validation:** <https://docs.pydantic.dev/latest/concepts/fields/>
+- [ ] pyydantic dokumentation gelesen und zusamengefast(**Validators (custom logic):** <https://docs.pydantic.dev/latest/concepts/validators/>- **Migration from v1 → v2:** <https://docs.pydantic.dev/latest/migration/> (only relevant if you find old tutorials)- **Pydantic-settings (env config):** <https://docs.pydantic.dev/latest/concepts/pydantic_settings/>)
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
