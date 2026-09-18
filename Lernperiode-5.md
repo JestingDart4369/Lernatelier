@@ -55,7 +55,7 @@ Testing Finished.
 - [x] ich möchten den python beginer kurs 1 auf net cad abschliesn hab schon 3/4 davon gemacht.
 - [x] fastapi Alle dokumentation im lerning .md erwähnt gelesen(- **Start here:** <https://fastapi.tiangolo.com/tutorial/> - First steps → Path Parameters → Query Parameters → Request Body is the critical 30-minute path.- **Advanced topics:** <https://fastapi.tiangolo.com/advanced/>- **Dependency injection:** <https://fastapi.tiangolo.com/tutorial/dependencies/>
   (very important — learn this thoroughly)- **Background tasks:** <https://fastapi.tiangolo.com/tutorial/background-tasks/>- **Lifespan events** (startup/shutdown): <https://fastapi.tiangolo.com/advanced/events/>- **Cheat sheet:** <https://github.com/tiangolo/fastapi#example>)
-- [x] **Best supplementary resources:**- **FastAPI Best Practices** (community-driven): <https://github.com/zhanymkanov/fastapi-best-practices> — opinionated patterns for real-world apps- **ArjanCodes — FastAPI playlist** (YouTube): <https://www.youtube.com/c/ArjanCodes> — search "FastAPI"; great architecture content- **TestDriven.io FastAPI courses** — paid but high quality Dies sachen Durchlessen und zusamenfasung schieben 
+- [x] **Best supplementary resources:**- **FastAPI Best Practices** (community-driven): <https://github.com/zhanymkanov/fastapi-best-practices> — opinionated patterns for real-world apps- **ArjanCodes — FastAPI playlist** (YouTube): <https://www.youtube.com/c/ArjanCodes> — search "FastAPI"; great architecture content- **TestDriven.io FastAPI courses** — paid but high quality Dies sachen Durchlessen und zusamenfasung schieben
 
 (Heute habe ich den beginner kurs abgeschlossen und den test gemacht dazu die fastapi dokumentation gelese.)
 
@@ -68,9 +68,18 @@ Testing Finished.
 
 ## Planung 18.09.2026
 
-- [ ] Lautsprechen testen über breadboard
-- [ ] Ersten song abspielebn mithifle vom arduino und bread board
-- [ ] relay testen mithilve vom arduino
+- [x] Lautsprechen testen über breadboard
+- [x] Ersten song abspielebn mithifle vom pin shorting und bread board
+- [x] LEdstrip testen mithilve vom arduino
+
+(Heute habe ich den audio teil verkabelt und die led strip ghetested)
+
+## Planung 25.09.2026
+
+- [ ] Lautsprecher Dateien übertragen und index erstellt
+- [ ] Songabspieln via arduino und eingebindet in haupt projekt
+- [ ] relay getestet
+- [ ] oop komentare zu allem hinzugerfügt.
 
 (Heute habe ich... (50-100 Wörter))
 
