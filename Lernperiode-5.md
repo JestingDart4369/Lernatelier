@@ -76,13 +76,12 @@ Testing Finished.
 
 ## Planung 25.09.2026
 
-- [ ] Lautsprecher Dateien übertragen und index erstellt
-- [ ] Songabspieln via arduino und eingebindet in haupt projekt
-- [ ] relay getestet
-- [ ] oop komentare zu allem hinzugerfügt.
+- [x] Led Code neu Geschrieben und Parentklasse implementiert
+- [x] Songabspieln via arduino und eingebindet in haupt projekt
+- [x] oop komentare zu allem hinzugerfügt.
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich den LED-Code der Discobox komplett neu geschrieben und dabei eine Parent-Klasse implementiert. So werden gemeinsame Funktionen an einem Ort verwaltet, und neue Effekte lassen sich einfacher hinzufügen. Ausserdem habe ich das Abspielen von Songs über den Arduino umgesetzt und ins Hauptprojekt eingebunden, sodass Audio und Steuerung jetzt zusammen funktionieren. Zum Schluss habe ich im ganzen Code Kommentare zur OOP-Struktur ergänzt. So kann man später nachvollziehen, wie die Klassen aufgebaut sind und wie die Module zusammenhängen.)
 
 ## Lernperiode Reflexion
 
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+(In dieser Lernperiode habe ich mich wie geplant gezielt auf mein Projekt «Discobox» konzentriert. Ich habe den Core neu und objektorientiert programmiert. Dazu kamen Soundeffekte für die Buttons, ein Einstellungsmodus und die Speicherung der Einstellungen im EEPROM. Die Befehle und Bezeichnungen im Serial Handler habe ich verbessert. Bei der Hardware habe ich den Lautsprecher und den LED-Strip getestet und das Abspielen von Songs ins Projekt eingebunden. Daneben habe ich den Python-Beginner-Kurs auf NetAcad abgeschlossen und mich in FastAPI und Pydantic eingelesen. Gut funktioniert hat, dass ich jede Woche klare Ziele hatte. In der nächsten Lernperiode möchte ich früher mit dem Testing anfangen.)
