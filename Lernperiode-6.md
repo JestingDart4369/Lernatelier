@@ -1,5 +1,5 @@
 # Lern-Periode 6
-- Name: Exemplibus Exemplio
+- Name: Eric Häusler
 - Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
@@ -52,9 +52,31 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [ ] Mein BBB Onedrive organisiert und die ordnerstrucktur dokumentiert.
-- [ ] Ein Ordner System für die discobox(dfplayer mini) überlegt und dokumentiert in einer md datei.
-- [ ] Alle songs welche für die disco playlist existieren heruntergeladen und einsortiert.
+- [x] Mein BBB Onedrive organisiert und die ordnerstrucktur dokumentiert.
+- [x] Ein Ordner System für die discobox(dfplayer mini) überlegt und dokumentiert in einer md datei.
+- [x] Alle songs welche für die disco playlist existieren heruntergeladen und einsortiert.
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Heute habe ich mein onedrive aufgeräumt und in der discobox ein scirpt geschrieben welcges die songs herunterladet und inexed dan richtiv bennent so das man es nur auf die ssd scmeise muss, auch habe ich einige bugs gefunden und behoben wie z.b das beim strip die r und b chanels in meiner libary vertauchtwaren ich habe diese getausch und num ist es richtig.
+
+### Planung 30.10.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+-->
+
+- [ ] namingscheme für discobox ¨berlegen und dokumentteirn befehl
+- [ ] dfplayer ad aditinal capability to read form a index to know whats playing.
+- [ ] namingscheme implementieren im serial handler code und fehler suchen.
 
 
 #### Tagesreflexion
@@ -66,6 +88,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
 ...Ihr Text...
+
 
 
 <!--
