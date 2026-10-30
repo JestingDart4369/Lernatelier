@@ -74,9 +74,31 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [ ] namingscheme für discobox ¨berlegen und dokumentteirn befehl
-- [ ] dfplayer ad aditinal capability to read form a index to know whats playing.
-- [ ] namingscheme implementieren im serial handler code und fehler suchen.
+- [x] namingscheme für discobox ¨berlegen und dokumentteirn befehl
+- [x] dfplayer ad aditinal capability to read form a index to know whats playing.
+- [x] namingscheme implementieren im serial handler code und fehler suchen.
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+Heute habe ich darüber gelernt wie cli comands aufgebaut sind das die -p und so benent sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings geupdated und ein main lights brightnes und sound hinzugefpgt und genacht das alles jetzt geregeltweden kann.
+ 
+### Planung 06.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+-->
+
+- [ ] für das relay eine libary bauen und es steuern können
+- [ ] die relay libary mit der cli verknüpfuen und in die modes einviden so das das rela an ist wen discomode an ist.
+- [ ] für das relay einen togle hinzufügen um über die einstellungen einzustellen ob an oder aus.
 
 
 #### Tagesreflexion
@@ -88,7 +110,6 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
 ...Ihr Text...
-
 
 
 <!--
