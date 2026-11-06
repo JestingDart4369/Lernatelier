@@ -88,8 +88,31 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
 Heute habe ich darüber gelernt wie cli comands aufgebaut sind das die -p und so benent sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings geupdated und ein main lights brightnes und sound hinzugefpgt und genacht das alles jetzt geregeltweden kann.
- 
+
 ### Planung 06.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+-->
+
+- [x] novaroma theme for visualstudiocode conzeptieren
+- [x] novaroma theme for visualstudiocode implementieren
+- [x] auf dem marketplace machen
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
+heute habe ich eingerichtet ddas mein code durch mein yubikey signiert wird und habe von meinem homelab für vscode ein extension gemacht welche themes icons und weiteres abändert.
+
+
+
+### Planung 20.11.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
