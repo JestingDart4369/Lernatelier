@@ -24,8 +24,8 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "BunBun[bot]"
+          git config user.email "BunBun[bot]@users.noreply.github.com"
 
       - name: Find current week branch
         id: find
