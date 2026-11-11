@@ -1,3 +1,12 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "markdown.validate.enabled": true,
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": "on"
+        }
+    },
+    "cSpell.words": [
+        "Häusler"
+    ]
 }

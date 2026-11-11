@@ -1,4 +1,6 @@
+
 # Lern-Periode 6
+
 - Name: Eric Häusler
 - Zeitraum: 23.10.2026 bis 18.12.2026
 
@@ -26,7 +28,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-Discobox Project
+Discobox Project finish stretch.
 
 ### Generelle Ziele
 <!--
@@ -56,8 +58,8 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 - [x] Ein Ordner System für die discobox(dfplayer mini) überlegt und dokumentiert in einer md datei.
 - [x] Alle songs welche für die disco playlist existieren heruntergeladen und einsortiert.
 
-
 #### Tagesreflexion
+
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
@@ -65,7 +67,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Heute habe ich mein onedrive aufgeräumt und in der discobox ein scirpt geschrieben welcges die songs herunterladet und inexed dan richtiv bennent so das man es nur auf die ssd scmeise muss, auch habe ich einige bugs gefunden und behoben wie z.b das beim strip die r und b chanels in meiner libary vertauchtwaren ich habe diese getausch und num ist es richtig.
+Heute habe ich mein onedrive aufgeräumt und in der discobox ein script geschrieben welcges die songs herunterladet und inexed dan richtiv bennent so das man es nur auf die ssd scmeise muss, auch habe ich einige bugs gefunden und behoben wie z.b das beim strip die r und b channels in meiner library vertauchtwaren ich habe diese getausch und num ist es richtig.
 
 ### Planung 30.10.2026
 <!--
@@ -78,7 +80,6 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 - [x] dfplayer ad aditinal capability to read form a index to know whats playing.
 - [x] namingscheme implementieren im serial handler code und fehler suchen.
 
-
 #### Tagesreflexion
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
@@ -87,7 +88,8 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Heute habe ich darüber gelernt wie cli comands aufgebaut sind das die -p und so benent sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings geupdated und ein main lights brightnes und sound hinzugefpgt und genacht das alles jetzt geregeltweden kann.
+Heute habe ich darüber gelernt wie cli commands aufgebaut sind das die -p und so benent sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings geupdated und ein main lights brightnes und sound hinzugefpgt und genacht das alles jetzt geregeltweden kann.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Planung 06.11.2026
 <!--
@@ -109,8 +111,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
 heute habe ich eingerichtet ddas mein code durch mein yubikey signiert wird und habe von meinem homelab für vscode ein extension gemacht welche themes icons und weiteres abändert.
-
-
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Planung 20.11.2026
 <!--
@@ -119,10 +120,9 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [ ] für das relay eine libary bauen und es steuern können
-- [ ] die relay libary mit der cli verknüpfuen und in die modes einviden so das das rela an ist wen discomode an ist.
-- [ ] für das relay einen togle hinzufügen um über die einstellungen einzustellen ob an oder aus.
-
+- [ ] für das relay eine library bauen und es steuern können
+- [ ] die relay library mit der cli verknüpfuen und in die modes einviden so das das real an ist wen discomode an ist.
+- [ ] für das relay einen toggle hinzufügen um über die einstellungen einzustellen ob an oder aus.
 
 #### Tagesreflexion
 <!--
@@ -133,7 +133,6 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
 ...Ihr Text...
-
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
