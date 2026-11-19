@@ -1,0 +1,29 @@
+name: Lint workflows
+
+# Validiert alle .github/workflows/*.yml bei jedem Push/PR mit actionlint
+# (prüft YAML-Syntax, Action-Referenzen und das eingebettete Bash via
+# shellcheck), damit Fehler sofort auffallen statt erst beim echten,
+# zeitgesteuerten Lauf am Sonntag.
+
+on:
+  push:
+    paths:
+      - '.github/workflows/**'
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  actionlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Run actionlint
+        uses: reviewdog/action-actionlint@v1
+        with:
+          fail_level: error
