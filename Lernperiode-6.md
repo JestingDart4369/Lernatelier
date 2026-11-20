@@ -12,14 +12,14 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-Bisher Alles 6 in infomatik muss mich eher bei Französisch dran halten.
+Bisher Alles 6 in Informatik muss mich eher bei Französisch dran halten.
 
 ### Veränderungen
 <!--
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 -->
 
-Ich möchte früher mit dem testing diesesmal beginnen.
+Ich möchte früher mit dem testing dieses mal beginnen.
 
 ### Projekte / neue Technologien
 <!--
@@ -35,7 +35,7 @@ Discobox Project finish stretch.
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-Das Discobox projekt ist ganz abgeschlossen
+Das Discobox Projekt ist ganz abgeschlossen
 
 ## Tagesplanungen
 <!--
@@ -54,8 +54,8 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [x] Mein BBB Onedrive organisiert und die ordnerstrucktur dokumentiert.
-- [x] Ein Ordner System für die discobox(dfplayer mini) überlegt und dokumentiert in einer md datei.
+- [x] Mein BBB One-Drive organisiert und die Ordner Struktur dokumentiert.
+- [x] Ein Ordner System für die Discobox(dfplayer mini) überlegt und dokumentiert in einer md Datei.
 - [x] Alle songs welche für die disco playlist existieren heruntergeladen und einsortiert.
 
 #### Tagesreflexion
@@ -63,11 +63,11 @@ Markieren Sie beendete Arbeitspakete mit einem x.
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
+Nicht wiederholen, was die Checkboxes schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Heute habe ich mein onedrive aufgeräumt und in der discobox ein script geschrieben welcges die songs herunterladet und inexed dan richtiv bennent so das man es nur auf die ssd scmeise muss, auch habe ich einige bugs gefunden und behoben wie z.b das beim strip die r und b channels in meiner library vertauchtwaren ich habe diese getausch und num ist es richtig.
+Heute habe ich mein One-Drive aufgeräumt und in der Discobox ein script geschrieben welches die songs herunterladet und indexed dan richtig benennt so das man es nur auf die ssd schieben muss, auch habe ich einige bugs gefunden und behoben wie z.b das beim strip die r und b channels in meiner library verbtausch-waren ich habe diese getauscht und num ist es richtig.
 
 ### Planung 30.10.2026
 <!--
@@ -76,19 +76,19 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [x] namingscheme für discobox ¨berlegen und dokumentteirn befehl
-- [x] dfplayer ad aditinal capability to read form a index to know whats playing.
-- [x] namingscheme implementieren im serial handler code und fehler suchen.
+- [x] Naming-Scheme für Discobox ¨belegen und dokumentieren Befehl
+- [x] dfplayer ad additional capability to read form a index to know whats playing.
+- [x] Naming-Scheme implementieren im serial handler code und Fehler suchen.
 
 #### Tagesreflexion
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
+Nicht wiederholen, was die Checkboxes schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Heute habe ich darüber gelernt wie cli commands aufgebaut sind das die -p und so benent sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings geupdated und ein main lights brightnes und sound hinzugefpgt und genacht das alles jetzt geregeltweden kann.
+Heute habe ich darüber gelernt wie cli commands aufgebaut sind das die -p und so benennt sind (arguments und flags) dank dieser [Webseite](https://clig.dev/#arguments-and-flags) auch habe ich meine settings genupdate und ein main lights brightness und sound hinzugefügt und genacht das alles jetzt geregelten kann.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Planung 06.11.2026
@@ -98,19 +98,19 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [x] novaroma theme for visualstudiocode conzeptieren
-- [x] novaroma theme for visualstudiocode implementieren
+- [x] Novaroma theme for Visual-Studio-Code konzeptiren
+- [x] Novaroma theme for Visual-Studio-Code implementieren
 - [x] auf dem marketplace machen
 
 #### Tagesreflexion
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
+Nicht wiederholen, was die Checkboxes schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-heute habe ich eingerichtet ddas mein code durch mein yubikey signiert wird und habe von meinem homelab für vscode ein extension gemacht welche themes icons und weiteres abändert.
+heute habe ich eingerichtet das mein code durch mein Yubikey signiert wird und habe von meinem Homelab für vscode ein extension gemacht welche themes icons und weiteres abändert.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Planung 20.11.2026
@@ -120,9 +120,9 @@ Umfang: ca. 30 - 60 Minuten je Arbeitspaket
 Markieren Sie beendete Arbeitspakete mit einem x.
 -->
 
-- [ ] für das relay eine library bauen und es steuern können
-- [ ] die relay library mit der cli verknüpfuen und in die modes einviden so das das real an ist wen discomode an ist.
-- [ ] für das relay einen toggle hinzufügen um über die einstellungen einzustellen ob an oder aus.
+- [x] für das relay eine library bauen und es steuern können
+- [x] die relay library mit der cli Verknüpfen und in die modes einbinden so das das real an ist wen Disco-mode an ist.
+- [x] für das relay einen toggle hinzufügen um über die einstellungen einzustellen ob an oder aus.
 
 #### Tagesreflexion
 <!--
@@ -131,6 +131,16 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
+
+heute habe ich das relay in die Discobox eingefügt zuhause mus ich den wackel Kontakt korrigieren und e in ein enclosure machen,zudem habe ich Lucy geholfen bei spiel the farmer was replace für 2 layer list für liste von States eines Feldes auf dem Feld abfragt. die Discobox sollte bis weinachten fertig sein.
+
+### Planung 27.11.2026
+
+- [ ] Discobox Base Lautsprecher teil designen
+- [ ] Discobox Base Strom Teil designen
+- [ ] Discobox Base Stark Storm designen
+
+#### Tagesreflexion
 
 ...Ihr Text...
 
